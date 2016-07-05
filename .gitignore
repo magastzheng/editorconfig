@@ -1,0 +1,4 @@
+#This is the ignore files for git
+
+*~
+*.swp
